@@ -25,7 +25,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/algorithm-visualizer.git
+   git clone https://github.com/bhargavi-46/algorithm-visualizer.git
    cd algorithm-visualizer
    ```
 
