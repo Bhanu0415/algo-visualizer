@@ -1,3 +1,4 @@
+ HEAD
 
 # Algorithm Visualizer
 
@@ -72,3 +73,6 @@ Contributions are welcome! If you find a bug or want to add a new feature:
 3. Commit your changes (`git commit -m "Add feature"`).
 4. Push to the branch (`git push origin feature-name`).
 5. Open a pull request.
+
+# algo-visualizer
+e4bc47d9bedb3ca63d4a69339c99616090cfebe9
